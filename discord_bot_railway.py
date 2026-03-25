@@ -34,7 +34,7 @@ async def on_message(message):
     if message.author == bot.user:
         return
 
-    if message.content.lower() == "react":
+    if "react" in message.content.lower():
         random_item = random.choice(items)
 
         if random_item.startswith("http"):
