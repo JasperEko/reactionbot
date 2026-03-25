@@ -94,7 +94,8 @@ items = [
   "divorced",
   "bad at 2D platformers",
   "did you hear about the craziest react bot theory? WHAT? The theory is that react bot is in a coma. WHAT?",
-  "im kinda in the middle, like malcolm"
+  "im kinda in the middle, like malcolm",
+  "Eppstein: “Clean my shoes.” Me: “Y-Yes...” Eppstein: “Good boy... You've earned a reward.” Me: “H-hey! T-that... tickles!” Eppstein: “Hush. Obey.” Me: “A-Arf! Y-yes!~”"
 ]
 
 @bot.event
