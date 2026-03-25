@@ -93,7 +93,8 @@ items = [
   "rigged",
   "divorced",
   "bad at 2D platformers",
-  "did you hear about the craziest react bot theory? WHAT? The theory is that react bot is in a coma. WHAT?"
+  "did you hear about the craziest react bot theory? WHAT? The theory is that react bot is in a coma. WHAT?",
+  "im kinda in the middle, like malcolm"
 ]
 
 @bot.event
