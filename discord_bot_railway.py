@@ -110,5 +110,10 @@ async def on_message(message):
         return
     if "react" in message.content.lower():
         random_item = random.choice(items)
-        await message.channel.send(random_item)
+        if random_item.startswith("http"):
+            embed = discord.Embed()
+            embed.set_image(url=random_item)
+            await message.channel.send(embed=embed)
+        else:
+            await message.channel.send(random_item)
 bot.run(os.environ["TOKEN"])
