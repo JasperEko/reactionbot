@@ -96,7 +96,9 @@ items = [
   "did you hear about the craziest react bot theory? WHAT? The theory is that react bot is in a coma. WHAT?",
   "im kinda in the middle, like malcolm",
   "Eppstein: “Clean my shoes.” Me: “Y-Yes...” Eppstein: “Good boy... You've earned a reward.” Me: “H-hey! T-that... tickles!” Eppstein: “Hush. Obey.” Me: “A-Arf! Y-yes!~”",
-  "On a scale of 1-10, I'm 10 goofy."
+  "On a scale of 1-10, I'm 10 goofy.",
+  "Through dark times, hope rises and blossoms i'll Giggity Lois and create some green constructs. Green Lantern, baby, remember every vowel. Or next time, you'll have a word with the Lantern Council. When shit like this happens, I'm wondering where peace went! I still feel like my CGI was pretty decent!",
+  "https://tenor.com/view/slender-man-slender-fightmarker-rap-rap-battle-gif-2406225390985296158"
 ]
 
 @bot.event
