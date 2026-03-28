@@ -104,18 +104,11 @@ items = [
 @bot.event
 async def on_ready():
     print(f'{bot.user} has connected to Discord!')
-
 @bot.event
 async def on_message(message):
     if message.author == bot.user:
         return
-
     if "react" in message.content.lower():
         random_item = random.choice(items)
-
-        if random_item.startswith("http"):
-            await message.channel.send(embed=discord.Embed().set_image(url=random_item))
-        else:
-            await message.channel.send(random_item)
-
+        await message.channel.send(random_item)
 bot.run(os.environ["TOKEN"])
