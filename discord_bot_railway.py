@@ -101,15 +101,6 @@ items = [
   "https://tenor.com/view/slender-man-slender-fightmarker-rap-rap-battle-gif-2406225390985296158",
   "a little bit of chungus a little bit of REEEE a little bit of goop *t poses to assert dominance* baaakaaa :3",
   "im react bot",
-  "An error has occurred. If you continually get the same error, try loading a different save file, submit a bug report, and/or check the Support Forums for assistance.
-  react bot Build April 9 2026 10:38:01
-
-  OS: Windows NT 6.2 (Build: 9200) CPU: AuthenticAMD Unknown processor @ 2595 MHz with 4095MB RAM Video: AMD Radeon(TM) Vega 3 Graphics (6001) Level: ..\Save\Save10.usa - Police Station
-
-  General protection fault!
-  
-  History: (InteractionMaster Transient.InteractionMaster0, Function Engine.InteractionMaster.Process_PostRender) <- UObject::ProcessEvent <- UInteractionMaster::MasterProcessPostRender <- FCameraSceneNode::Render <- UGameEngine::Draw <- UWindowsViewport::Repaint <- UWindowsClient::Tick <- ClientTick <- UGameEngine::Tick <- UpdateWorld <- MainLoop",
-  "hold on xqc is streaming right now",
   "father? whats a father? rip xxxtentasion 🕊️🕊️🕊️",
   "hey toby, theres a latin american behind you",
   "can we listen to the hatsune miku song where she says her name 40 times",
