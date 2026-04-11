@@ -105,7 +105,8 @@ items = [
   "hey toby, theres a latin american behind you",
   "can we listen to the hatsune miku song where she says her name 40 times",
   "sorry for party rocking",
-  "i think i miss my goop"
+  "i think i miss my goop",
+  "im not homophobic but i dont really like lil nas x"
 
 ]
 
